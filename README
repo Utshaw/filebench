@@ -45,7 +45,8 @@ you can proceed with configuration, compilation, and installation as usual:
 $ ./configure
 $ make
 $ sudo make install
-
+$ ./runme.sh
+$ # make sure to change the readtest.f file as necessary
 
 QUICK-START GUIDE
 -----------------
